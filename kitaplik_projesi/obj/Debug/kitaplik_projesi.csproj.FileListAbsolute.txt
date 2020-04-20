@@ -1,0 +1,9 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\bin\Debug\kitaplik_projesi.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\bin\Debug\kitaplik_projesi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\bin\Debug\kitaplik_projesi.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\obj\Debug\kitaplik_projesi.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\obj\Debug\kitaplik_projesi.Form1.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\obj\Debug\kitaplik_projesi.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\obj\Debug\kitaplik_projesi.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\obj\Debug\kitaplik_projesi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\kitaplik_projesi\kitaplik_projesi\obj\Debug\kitaplik_projesi.pdb
